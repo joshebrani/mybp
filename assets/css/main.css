@@ -6880,9 +6880,9 @@ input, select, textarea {
 
 				.gallery.style2 article .image img {
 					display: block;
-    				width: 420px;
+    				width: 100%;
     				border-radius: 200px;
-    				height: 420px;
+    				height: 100%;
 
 				}
 
