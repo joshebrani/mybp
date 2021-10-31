@@ -6870,7 +6870,6 @@ input, select, textarea {
 			overflow: hidden;
 			width: 22.5rem;
 			max-width: 75vw;
-			height: fit-content;
 		}
 
 			.gallery.style2 article .image {
@@ -7210,7 +7209,7 @@ input, select, textarea {
 	}
 
 	.gallery article .image {
-		background: none;
+		background-color: rgba(0, 0, 0, 0.125);
 	}
 
 /* Wrapper (style1) */
